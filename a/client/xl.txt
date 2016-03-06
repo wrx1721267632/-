@@ -1,0 +1,1268 @@
+ linux is online
+   Sat Sep  5 15:56:37 2015
+
+input(to linux): #to linux
+
+   Wed Apr 18 06:34:00 4457984
+ 服务器： don't online
+
+   Sat Sep  5 15:56:40 2015
+
+input(to linux): #to linux
+
+   Sat Sep  5 15:56:40 2015
+ 服务器： don't online
+
+   Sat Sep  5 15:56:51 2015
+
+ linux is online
+   Sat Sep  5 16:04:14 2015
+
+input(to linux): #to linux
+
+   Sat May 22 21:12:56 4453019
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:04:17 2015
+
+input(to linux): asdasdasd
+
+   Sat Sep  5 16:04:17 2015
+input(to xl): #to xl
+
+   Sat Sep  5 16:04:18 2015
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:04:21 2015
+
+input(to linux): #to linux
+
+   Sat Sep  5 16:04:26 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:04:30 2015
+
+input(to linux): asdasd
+
+   Sat Sep  5 16:04:30 2015
+ linux: asdasdas
+   Sat Sep  5 16:04:43 2015
+
+ linux: sadadad
+   Sat Sep  5 16:04:44 2015
+
+ linux: adada
+   Sat Sep  5 16:04:45 2015
+
+ linux: asdada
+   Sat Sep  5 16:04:45 2015
+
+  群聊消息，来自 linux: asdasdasdsa
+
+   Sat Sep  5 16:04:56 2015
+
+  群聊消息，来自 linux: sdasdasdadadada
+
+   Sat Sep  5 16:04:58 2015
+
+ 1000 群聊消息，来自 linux: asdasdasd
+
+   Sat Sep  5 16:05:10 2015
+
+ 1000 群聊消息，来自 linux: sdsadasddadsad
+
+   Sat Sep  5 16:05:12 2015
+
+ 1000 群聊消息，来自 linux: asdasdadadasd
+
+   Sat Sep  5 16:05:13 2015
+
+ 1000 群聊消息，来自 linux: sadasdadadasdas
+
+   Sat Sep  5 16:05:15 2015
+
+ linux's unline： sadasdasd
+                                                                        
+   Sat Sep  5 16:06:22 2015
+
+ linux's unline： sadasdas
+                                                                         
+   Sat Sep  5 16:06:22 2015
+
+ linux's unline： adasdasda
+                                                                        
+   Sat Sep  5 16:06:22 2015
+
+ linux is online
+   Sat Sep  5 16:06:22 2015
+
+  群聊消息，来自 linux: dsadasd
+
+   Sat Sep  5 16:07:12 2015
+
+  群聊消息，来自 linux: asdadsad
+
+   Sat Sep  5 16:07:13 2015
+
+  群聊消息，来自 linux: asdada
+
+   Sat Sep  5 16:07:14 2015
+
+  群聊消息，来自 linux: dsadasdasda
+
+   Sat Sep  5 16:07:15 2015
+
+ linux is go away
+   Sat Sep  5 16:07:19 2015
+
+ you can talk in qun!
+   Sat Sep  5 16:07:32 2015
+
+input(to all): #all
+
+   Thu Sep 21 08:42:00 4455071
+ 成功进入群聊
+
+   Sat Sep  5 16:08:40 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:08:40 2015
+ don't have the person
+
+   Sat Sep  5 16:15:22 2015
+
+ don't have the person
+
+   Sat Sep  5 16:15:30 2015
+
+ linux is online
+   Sat Sep  5 16:17:43 2015
+
+ linux: sadada
+   Sat Sep  5 16:17:48 2015
+
+ linux: asdasda
+   Sat Sep  5 16:17:49 2015
+
+ linux: asdasdas
+   Sat Sep  5 16:17:49 2015
+
+ linux: asdasd
+   Sat Sep  5 16:17:50 2015
+
+input(to all): #all
+
+   Sat Sep  5 16:22:12 2015
+ 成功进入群聊
+
+   Sat Sep  5 16:22:12 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:22:15 2015
+input(to all): #all
+
+   Fri Dec  5 00:03:36 4438538
+ 成功进入群聊
+
+   Sat Sep  5 16:25:53 2015
+
+input(to all): asdsad
+
+   Sat Sep  5 16:25:53 2015
+input(to all): -exit
+
+   Sat Sep  5 16:25:54 2015
+ linux is online
+   Sat Sep  5 16:26:20 2015
+
+ linux: asdasd\asd
+   Sat Sep  5 16:26:26 2015
+
+ linux: #
+   Sat Sep  5 16:26:29 2015
+
+ linux is go away
+   Sat Sep  5 16:26:32 2015
+
+input(to all): #all
+
+   Sat Mar 10 21:27:52 4447787
+ 成功进入群聊
+
+   Sat Sep  5 16:55:18 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:55:18 2015
+ don't have the person
+
+   Sat Sep  5 16:55:43 2015
+
+ linux's unline： asdasda
+                                                                          
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： asdad
+                                                                            
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： asda
+                                                                             
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： dad
+                                                                              
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： sadad
+                                                                            
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： sad
+                                                                              
+   Sat Sep  5 17:06:35 2015
+
+ linux's unline： asd
+                                                                              
+   Sat Sep  5 17:06:35 2015
+
+ it,s ok!
+
+   Sat Sep  5 17:06:43 2015
+
+ linux is online
+   Sat Sep  5 18:43:17 2015
+
+input(to linux): #to linux
+
+   Sat Jan 16 06:46:48 4434788
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 18:43:27 2015
+
+input(to linux): dasdasdad
+
+   Sat Sep  5 18:43:27 2015
+input(to linux): sadasdsa
+
+   Sat Sep  5 18:43:29 2015
+input(to linux): sadasd
+
+   Sat Sep  5 18:43:33 2015
+ linux is online
+   Sat Sep  5 20:41:04 2015
+
+input(to linux): #to linux
+
+   Wed May 17 16:29:12 4442913
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:41:26 2015
+
+ linux is go away
+   Sat Sep  5 20:41:38 2015
+
+ linux is online
+   Sat Sep  5 20:43:05 2015
+
+input(to linux.txt): asdad
+
+   Sat Sep  5 20:41:26 2015
+ linux is online
+   Sat Sep  5 20:44:13 2015
+
+ linux: #file linux.txt
+   Sat Sep  5 20:44:23 2015
+
+input(to linux): #to linux
+
+   Thu Jan  6 20:26:00 4435144
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:44:35 2015
+
+input(to linux): #y
+
+   Sat Sep  5 20:44:35 2015
+ linux: 接收到文件 linux.txt
+   Sat Sep  5 20:44:42 2015
+
+ linux is online
+   Sat Sep  5 20:45:29 2015
+
+input(to linux): #to linux
+
+   Fri Jan 12 13:21:28 4442621
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:45:38 2015
+
+input(to linux): sadasd
+
+   Sat Sep  5 20:45:38 2015
+input(to linux): asdad
+
+   Sat Sep  5 20:45:39 2015
+ linux is go away
+   Sat Sep  5 20:45:46 2015
+
+ linux is online
+   Sat Sep  5 20:50:49 2015
+
+input(to linux): #to linux
+
+   Wed Dec  7 21:06:32 4448304
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:50:54 2015
+
+ linux is online
+   Sat Sep  5 20:51:47 2015
+
+input(to linux): #to linux
+
+   Sat Jul 14 20:15:20 4428677
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:51:50 2015
+
+ linux is online
+   Sat Sep  5 20:53:49 2015
+
+ linux: asdasd
+   Sat Sep  5 20:53:59 2015
+
+ linux: #file linux.txt
+   Sat Sep  5 20:54:16 2015
+
+input(to linux): #to linux
+
+   Sat Feb 12 16:42:00 4448833
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:54:32 2015
+
+ linux is online
+   Sat Sep  5 20:59:07 2015
+
+input(to linux): #to linux
+
+   Thu Aug 25 22:06:16 4428157
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:59:13 2015
+
+input(to linux): asdsa
+
+   Sat Sep  5 20:59:13 2015
+ linux is go away
+   Sat Sep  5 20:59:20 2015
+
+ linux is online
+   Sat Sep  5 21:02:20 2015
+
+input(to linux): #to linux
+
+   Wed Jan  3 05:36:24 4427190
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:02:22 2015
+
+input(to linux): #y
+
+   Sat Sep  5 21:02:22 2015
+ linux: 接收到文件 linux.txt
+   Sat Sep  5 21:02:38 2015
+
+ linux is online
+   Sat Sep  5 21:06:06 2015
+
+input(to linux): #to linux
+
+   Wed Jul 24 19:43:20 4459269
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:06:08 2015
+
+input(to linux): #y
+
+   Sat Sep  5 21:06:08 2015
+ linux: 接收到文件 linux.txt
+   Sat Sep  5 21:06:19 2015
+
+ linux is online
+   Sat Sep  5 21:12:34 2015
+
+input(to linux): #to linux
+
+   Sun Dec 26 11:15:36 4448680
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:12:40 2015
+
+input(to linux): asda
+
+   Sat Sep  5 21:12:40 2015
+input(to linux): #y
+
+   Sat Sep  5 21:12:41 2015
+ linux: 接收到文件 linux.txt
+   Sat Sep  5 21:12:53 2015
+
+ linux is online
+   Sat Sep  5 21:14:40 2015
+
+input(to linux): #to linux
+
+   Thu Nov 14 04:38:48 4441697
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:14:50 2015
+
+input(to linux): #y
+
+   Sat Sep  5 21:14:50 2015
+ linux: 接收到文件 linux.txt
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt  xl is online
+   Sat Sep  5 15:56:37 2015
+
+ xl is go away
+   Sat Sep  5 15:56:56 201h
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt 5
+
+input(to linmux): #to linux
+
+   Thu Sep 17 01:43:52 4452303
+ 服务器： you canh
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt ,t talk with yourself
+
+   Sat Sep  5 16:02:07 2015
+
+input(to xl): #to xl
+
+   Sat Seph
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt   5 16:02:07 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5h
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt  16:02:15 2015
+
+input(to xl): sadasd
+
+   Sat Sep  5 16:02:15 2015
+ 该用户已退�h
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt �，现已退出与其对话，请重新输入！
+
+   Sat Sep  5 16:02:22 2015
+
+inpuh
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt t(to xl): #to xl
+
+   Sat Sep  5 16:02:24 2015
+ 服务器： it's ok,you can talk with
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt h your friend
+
+   Sat Sep  5 16:02:27 2015
+
+input(to linux\): #to linux\
+
+   Sat Seph
+   Sat Sep  5 21:15:04 2015
+
+ @###@linux.txt   5 16:02:27 2015
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:02:34h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt  2015
+
+input(to linux): #to linux
+
+   Thu Aug 24 14:38:16 4445747
+ 服务器： you h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt can,t talk with yourself
+
+   Sat Sep  5 16:04:03 2015
+
+input(to xl): #to xl
+
+   Sat h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt Sep  5 16:04:07 2015
+ 服务器： don't online
+
+   Sat Sep  5 16:04:09 2015
+
+ xl ish
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt  online
+   Sat Sep  5 16:04:14 2015
+
+ xl: asdasdasd
+   Sat Sep  5 16:04:18 2015
+
+ xlh
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt : asdasd
+   Sat Sep  5 16:04:38 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:04:09 2h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt 015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:04:41 2015h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt 
+
+input(to xl): asdasdas
+
+   Sat Sep  5 16:04:41 2015
+input(to xl): sadadad
+
+   Sat h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt Sep  5 16:04:43 2015
+input(to xl): adada
+
+   Sat Sep  5 16:04:44 2015
+input(to xl): h
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt asdada
+
+   Sat Sep  5 16:04:45 2015
+ xl is online
+   Sat Sep  5 16:04:51 2015
+
+inputh
+   Sat Sep  5 21:15:05 2015
+
+ @###@linux.txt (to all): #all
+
+   Sat Sep  5 16:04:51 2015
+ 成功进入群聊
+
+   Sat Sep  5 16:04h
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt :54 2015
+
+input(to all): asdasdasdsa
+
+   Sat Sep  5 16:04:54 2015
+input(to all): sdah
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt sdasdadadada
+
+   Sat Sep  5 16:04:56 2015
+ xl is online
+   Sat Sep  5 16:05:01 2015
+h
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt 
+ you can talk in qun!
+   Sat Sep  5 16:05:08 2015
+
+ don't have the person
+
+   Sat Sh
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt ep  5 16:05:53 2015
+
+ xl is go away
+   Sat Sep  5 16:06:03 2015
+
+ xl is online
+   Sah
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt t Sep  5 16:06:22 2015
+
+input(to all): #all
+
+   Sat Sep  5 16:06:17 2015
+ 对方以�h
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt ��线！
+
+   Sat Sep  5 16:06:59 2015
+
+input(to all): asdasd
+
+   Sat Sep  5 16:06:59h
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt  2015
+input(to all): dasdasd
+
+   Sat Sep  5 16:07:04 2015
+input(to all): #all
+
+   Sah
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt t Sep  5 16:07:09 2015
+ 成功进入群聊
+
+   Sat Sep  5 16:07:11 2015
+
+input(to alh
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt l): dsadasd
+
+   Sat Sep  5 16:07:11 2015
+input(to all): asdadsad
+
+   Sat Sep  5 16:0h
+   Sat Sep  5 21:15:06 2015
+
+ @###@linux.txt 7:12 2015
+input(to all): asdada
+
+   Sat Sep  5 16:07:13 2015
+input(to all): dsadasdah
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt sda
+
+   Sat Sep  5 16:07:14 2015
+input(to all): #all
+
+   Thu Jul 31 14:44:40 4448431h
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt 
+ 成功进入群聊
+
+   Sat Sep  5 16:12:00 2015
+
+input(to all): -exit
+
+   Sat Sep h
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt  5 16:12:00 2015
+ you can talk in qun!
+   Sat Sep  5 16:14:47 2015
+
+input(to xl): #th
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt o xl
+
+   Sun Jan 13 14:12:40 4442543
+ 服务器： don't online
+
+   Sat Sep  5 16:17h
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt :37 2015
+
+ xl is online
+   Sat Sep  5 16:17:43 2015
+
+input(to xl): #to xl
+
+   Sat Seh
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt p  5 16:17:37 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  h
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt 5 16:17:47 2015
+
+input(to xl): sadada
+
+   Sat Sep  5 16:17:47 2015
+input(to xl): asdh
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt asda
+
+   Sat Sep  5 16:17:48 2015
+input(to xl): asdasdas
+
+   Sat Sep  5 16:17:49 201h
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt 5
+input(to xl): asdasd
+
+   Sat Sep  5 16:17:49 2015
+input(to linux): #to linux
+
+   Sh
+   Sat Sep  5 21:15:07 2015
+
+ @###@linux.txt at Sep  5 16:17:50 2015
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt :17:53 2015
+
+input(to all): #all
+
+   Wed Sep 17 09:09:44 4436560
+ 成功进入群聊h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt 
+
+   Sat Sep  5 16:26:04 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:26:04 2015
+ xlh
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt  is online
+   Sat Sep  5 16:26:20 2015
+
+input(to xl): #to xl
+
+   Mon Oct 29 04:21:44h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt  4439460
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:26:24h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt  2015
+
+input(to xl): asdasd\asd
+
+   Sat Sep  5 16:26:24 2015
+input(to xl): #
+
+   Sath
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt  Sep  5 16:26:26 2015
+input(to xl): -exit
+
+   Sat Sep  5 16:26:29 2015
+ xl's unline�h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt �� dadad
+                                                                           h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt     
+   Sat Sep  5 16:56:03 2015
+
+ xl's unline： asdadsad
+                         h
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt                                                    
+   Sat Sep  5 16:56:03 2015
+
+ xlh
+   Sat Sep  5 21:15:08 2015
+
+ @###@linux.txt 's unline： asdasda
+                                                               h
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt               
+   Sat Sep  5 16:56:03 2015
+
+ you can talk in qun!
+   Sat Sep  5 16:5h
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt 8:49 2015
+
+ xl is online
+   Sat Sep  5 20:41:04 2015
+
+input(to xl): #to xl
+
+   Sun Jh
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt un 27 04:19:36 4453824
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sh
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt ep  5 20:41:11 2015
+
+ xl is online
+   Sat Sep  5 20:43:05 2015
+
+ xl: asdad
+   Sat Seh
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt p  5 20:43:10 2015
+
+ xl is online
+   Sat Sep  5 20:44:13 2015
+
+input(to xl): #to xl
+h
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt 
+   Wed Mar 24 09:26:48 4443328
+ 服务器： it's ok,you can talk with your friend
+h
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt 
+   Sat Sep  5 20:44:15 2015
+
+ xl is online
+   Sat Sep  5 20:45:29 2015
+
+input(to xlh
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt ): #to xl
+
+   Thu Jan  1 08:00:00 1970
+ 服务器： it's ok,you can talk with your h
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt friend
+
+   Sat Sep  5 20:45:32 2015
+
+ xl: sadasd
+   Sat Sep  5 20:45:39 2015
+
+ xl: ah
+   Sat Sep  5 21:15:09 2015
+
+ @###@linux.txt sdad
+   Sat Sep  5 20:45:40 2015
+
+ xl is online
+   Sat Sep  5 20:50:49 2015
+
+input(th
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt o xl): #to xl
+
+   Mon Feb  5 23:33:44 4427551
+ 服务器： it's ok,you can talk with
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt h your friend
+
+   Sat Sep  5 20:50:58 2015
+
+ xl is go away
+   Sat Sep  5 20:51:05 20h
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt 15
+
+ xl is online
+   Sat Sep  5 20:51:47 2015
+
+input(to xl): #to xl
+
+   Thu Jan  1 0h
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt 8:00:00 1970
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 20:5h
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt 1:53 2015
+
+ xl is go away
+   Sat Sep  5 20:51:59 2015
+
+ xl is online
+   Sat Sep  5 2h
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt 0:53:49 2015
+
+input(to xl): #to xl
+
+   Sat Mar 27 06:10:32 4443165
+ 服务器： it'h
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt s ok,you can talk with your friend
+
+   Sat Sep  5 20:53:58 2015
+
+input(to xl): asdash
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt d
+
+   Sat Sep  5 20:53:58 2015
+ xl is online
+   Sat Sep  5 20:59:07 2015
+
+input(to xh
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt l): #to xl
+
+   Mon May 31 20:49:28 4439430
+ 服务器： it's ok,you can talk with yh
+   Sat Sep  5 21:15:10 2015
+
+ @###@linux.txt our friend
+
+   Sat Sep  5 20:59:09 2015
+
+ xl: asdsa
+   Sat Sep  5 20:59:14 2015
+
+ xlh
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt  is online
+   Sat Sep  5 21:02:20 2015
+
+input(to xl): #to xl
+
+   Sat Jan  9 15:42:16h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt  4447960
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:02:26h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt  2015
+
+ xl: #y
+   Sat Sep  5 21:02:38 2015
+
+ xl is online
+   Sat Sep  5 21:06:06 201h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt 5
+
+input(to xl): #to xl
+
+   Sat Jun 10 02:28:40 4434271
+ 服务器： it's ok,you cah
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt n talk with your friend
+
+   Sat Sep  5 21:06:11 2015
+
+ xl: #
+   Sat Sep  5 21:06:19 h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt 2015
+
+ xl is online
+   Sat Sep  5 21:12:34 2015
+
+ xl: asda
+   Sat Sep  5 21:12:41 20h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt 15
+
+input(to xl): #to xl
+
+   Fri May 25 21:23:36 4453928
+ 服务器： it's ok,you ch
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt an talk with your friend
+
+   Sat Sep  5 21:12:44 2015
+
+ xl is go away
+   Sat Sep  5 h
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt 21:12:53 2015
+
+ xl is online
+   Sat Sep  5 21:14:40 2015
+
+input(to xl): #to xl
+
+   Sh
+   Sat Sep  5 21:15:11 2015
+
+ @###@linux.txt un Nov 26 09:26:48 4457511
+ 服务器： it's ok,you can talk with your friend
+
+   Sh
+   Sat Sep  5 21:15:12 2015
+
+ @###@linux.txt at Sep  5 21:14:55 2015
+
+
+   Sat Sep  5 21:15:12 2015
+
+ linux is online
+   Sat Sep  5 21:20:27 2015
+
+input(to linux): #to linux
+
+   Thu Jan  1 08:00:00 1970
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:20:32 2015
+
+ linux is online
+   Sat Sep  5 21:23:34 2015
+
+input(to all): #all
+
+   Fri Apr 11 17:26:48 4447197
+ 成功进入群聊
+
+   Sat Sep  5 21:23:39 2015
+
+input(to all): sadasd
+
+   Sat Sep  5 21:23:39 2015
+input(to all): sad
+
+   Sat Sep  5 21:23:40 2015
+input(to all): asd
+
+   Sat Sep  5 21:23:40 2015
+input(to all): a
+
+   Sat Sep  5 21:23:40 2015
+input(to all): da
+
+   Sat Sep  5 21:23:40 2015
+input(to all): da
+
+   Sat Sep  5 21:23:40 2015
+ linux is online
+   Sat Sep  5 21:31:11 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+   Sat Sep  5 21:31:45 2015
+
+ linux is online
+   Sat Sep  5 21:46:56 2015
+
+ linux is online
+   Sat Sep  5 21:47:21 2015
+
+input(to linux): #to linux
+
+   Sat Sep  5 21:47:21 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:47:28 2015
+
+input(to linux): sadsadsad
+
+   Sat Sep  5 21:47:28 2015
+ linux: sadsad
+   Sat Sep  5 21:47:38 2015
+
+ linux: sadad
+   Sat Sep  5 21:47:39 2015
+
+ linux: sadsad
+   Sat Sep  5 21:47:39 2015
+
+ linux: sadsa
+   Sat Sep  5 21:47:40 2015
+
+input(to all): #all
+
+   Sat Sep  5 21:47:29 2015
+input(to all): sadsadasd
+
+   Sat Sep  5 21:47:53 2015
+input(to all): sad
+
+   Sat Sep  5 21:47:54 2015
+input(to all): sad
+
+   Sat Sep  5 21:47:54 2015
+ linux is online
+   Sat Sep  5 21:48:04 2015
+
+input(to all): #all
+
+   Sat Sep  5 21:48:04 2015
+ 成功进入群聊
+
+   Sat Sep  5 21:48:06 2015
+
+input(to all): sadasd
+
+   Sat Sep  5 21:48:06 2015
+input(to all): asdasd
+
+   Sat Sep  5 21:48:07 2015
+ linux is online
+   Sat Sep  5 21:48:25 2015
+
+input(to linux): #to linux
+
+   Sat Sep  5 21:48:25 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 21:48:27 2015
+
+ linux is online
+   Sat Sep  5 21:49:46 2015
+
+ 1000 群聊消息，来自 linux: sadsadsad
+
+   Sat Sep  5 21:50:40 2015
+
+ 1000 群聊消息，来自 linux: asdasdasd
+
+   Sat Sep  5 21:50:41 2015
+
+ l is online
+   Sat Sep  5 21:51:12 2015
+
+ 1000 群聊消息，来自 linux: sadsada
+
+   Sat Sep  5 21:51:16 2015
+
+ 1000 群聊消息，来自 linux: asdasd
+
+   Sat Sep  5 21:51:17 2015
+
+ 1000 群聊消息，来自 linux: asdasd
+
+   Sat Sep  5 21:51:33 2015
+
+ 1000 群聊消息，来自 linux: asdsad
+
+   Sat Sep  5 21:51:33 2015
+
+ it,s   over
+
+   Sat Sep  5 21:52:23 2015
+
+ l is go away
+   Sat Sep  5 21:52:32 2015
+
+ it,s   over
+
+   Sat Sep  5 21:52:44 2015
+
+ 1000 群聊消息，来自 linux: #goaway 1000
+
+   Sat Sep  5 21:53:09 2015
+
+ you don't in tne qun!
+   Sat Sep  5 21:53:32 2015
+
+ you don't in tne qun!
+   Sat Sep  5 21:55:15 2015
+
+ it,s   over
+
+   Sat Sep  5 21:56:25 2015
+
+ you don't in tne qun!
+   Sat Sep  5 21:56:35 2015
+
+ l is online
+   Sat Sep  5 21:56:43 2015
+
+ 1000 群聊消息，来自 l: sdadasda
+
+   Sat Sep  5 21:56:48 2015
+
+ 1000 群聊消息，来自 l: sad
+
+   Sat Sep  5 21:56:48 2015
+
+ 1000 群聊消息，来自 l: asd
+
+   Sat Sep  5 21:56:49 2015
+
+ you don't in tne qun!
+   Sat Sep  5 21:56:59 2015
+
+ linux is go away
+   Sat Sep  5 21:58:15 2015
+
+  is go away
+   Sat Sep  5 21:58:35 2015
+

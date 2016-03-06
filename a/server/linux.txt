@@ -1,0 +1,240 @@
+ xl is online
+   Sat Sep  5 15:56:37 2015
+
+ xl is go away
+   Sat Sep  5 15:56:56 2015
+
+input(to linux): #to linux
+
+   Thu Sep 17 01:43:52 4452303
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:02:07 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:02:07 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:02:15 2015
+
+input(to xl): sadasd
+
+   Sat Sep  5 16:02:15 2015
+ 该用户已退出，现已退出与其对话，请重新输入！
+
+   Sat Sep  5 16:02:22 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:02:24 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:02:27 2015
+
+input(to linux\): #to linux\
+
+   Sat Sep  5 16:02:27 2015
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:02:34 2015
+
+input(to linux): #to linux
+
+   Thu Aug 24 14:38:16 4445747
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:04:03 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:04:07 2015
+ 服务器： don't online
+
+   Sat Sep  5 16:04:09 2015
+
+ xl is online
+   Sat Sep  5 16:04:14 2015
+
+ xl: asdasdasd
+   Sat Sep  5 16:04:18 2015
+
+ xl: asdasd
+   Sat Sep  5 16:04:38 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:04:09 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:04:41 2015
+
+input(to xl): asdasdas
+
+   Sat Sep  5 16:04:41 2015
+input(to xl): sadadad
+
+   Sat Sep  5 16:04:43 2015
+input(to xl): adada
+
+   Sat Sep  5 16:04:44 2015
+input(to xl): asdada
+
+   Sat Sep  5 16:04:45 2015
+ xl is online
+   Sat Sep  5 16:04:51 2015
+
+input(to all): #all
+
+   Sat Sep  5 16:04:51 2015
+ 成功进入群聊
+
+   Sat Sep  5 16:04:54 2015
+
+input(to all): asdasdasdsa
+
+   Sat Sep  5 16:04:54 2015
+input(to all): sdasdasdadadada
+
+   Sat Sep  5 16:04:56 2015
+ xl is online
+   Sat Sep  5 16:05:01 2015
+
+ you can talk in qun!
+   Sat Sep  5 16:05:08 2015
+
+ don't have the person
+
+   Sat Sep  5 16:05:53 2015
+
+ xl is go away
+   Sat Sep  5 16:06:03 2015
+
+ xl is online
+   Sat Sep  5 16:06:22 2015
+
+input(to all): #all
+
+   Sat Sep  5 16:06:17 2015
+ 对方以上线！
+
+   Sat Sep  5 16:06:59 2015
+
+input(to all): asdasd
+
+   Sat Sep  5 16:06:59 2015
+input(to all): dasdasd
+
+   Sat Sep  5 16:07:04 2015
+input(to all): #all
+
+   Sat Sep  5 16:07:09 2015
+ 成功进入群聊
+
+   Sat Sep  5 16:07:11 2015
+
+input(to all): dsadasd
+
+   Sat Sep  5 16:07:11 2015
+input(to all): asdadsad
+
+   Sat Sep  5 16:07:12 2015
+input(to all): asdada
+
+   Sat Sep  5 16:07:13 2015
+input(to all): dsadasdasda
+
+   Sat Sep  5 16:07:14 2015
+input(to all): #all
+
+   Thu Jul 31 14:44:40 4448431
+ 成功进入群聊
+
+   Sat Sep  5 16:12:00 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:12:00 2015
+ you can talk in qun!
+   Sat Sep  5 16:14:47 2015
+
+input(to xl): #to xl
+
+   Sun Jan 13 14:12:40 4442543
+ 服务器： don't online
+
+   Sat Sep  5 16:17:37 2015
+
+ xl is online
+   Sat Sep  5 16:17:43 2015
+
+input(to xl): #to xl
+
+   Sat Sep  5 16:17:37 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:17:47 2015
+
+input(to xl): sadada
+
+   Sat Sep  5 16:17:47 2015
+input(to xl): asdasda
+
+   Sat Sep  5 16:17:48 2015
+input(to xl): asdasdas
+
+   Sat Sep  5 16:17:49 2015
+input(to xl): asdasd
+
+   Sat Sep  5 16:17:49 2015
+input(to linux): #to linux
+
+   Sat Sep  5 16:17:50 2015
+ 服务器： you can,t talk with yourself
+
+   Sat Sep  5 16:17:53 2015
+
+input(to all): #all
+
+   Wed Sep 17 09:09:44 4436560
+ 成功进入群聊
+
+   Sat Sep  5 16:26:04 2015
+
+input(to all): -exit
+
+   Sat Sep  5 16:26:04 2015
+ xl is online
+   Sat Sep  5 16:26:20 2015
+
+input(to xl): #to xl
+
+   Mon Oct 29 04:21:44 4439460
+ 服务器： it's ok,you can talk with your friend
+
+   Sat Sep  5 16:26:24 2015
+
+input(to xl): asdasd\asd
+
+   Sat Sep  5 16:26:24 2015
+input(to xl): #
+
+   Sat Sep  5 16:26:26 2015
+input(to xl): -exit
+
+   Sat Sep  5 16:26:29 2015
+ xl's unline： dadad
+                                                                               
+   Sat Sep  5 16:56:03 2015
+
+ xl's unline： asdadsad
+                                                                            
+   Sat Sep  5 16:56:03 2015
+
+ xl's unline： asdasda
+                                                                             
+   Sat Sep  5 16:56:03 2015
+
+ you can talk in qun!
+   Sat Sep  5 16:58:49 2015
+
